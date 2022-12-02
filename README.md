@@ -2,7 +2,7 @@
 
 <img align='right' src="https://media0.giphy.com/media/SV0LuYdSMmKEklpZKs/giphy.gif" width="230">
 <p><em>Exploration Lead at <a href="https://starkware.co/">StarkWare</a><img src="https://media2.giphy.com/media/9x55tYxEVrI04pKHl1/giphy.gif" width="30">
-</em><br /><em>Ethereum Core Dev <img src="https://media3.giphy.com/media/WYWpz5qC5r0XVpRHRO/giphy.gif" width="30"></em></p>
+</em><br /><em>Ethereum Core Dev <img src="https://media2.giphy.com/media/WZbiJmZsWiDXDVjZCz/giphy.gif" width="30"></em></p>
 
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/dimahledba?style=social)](https://twitter.com/dimahledba)
 [![GitHub Thaiane](https://img.shields.io/github/followers/abdelhamidbakhta?label=follow&style=social)](https://github.com/abdelhamidbakhta)
