@@ -4,6 +4,8 @@
 <p>
 <em>Exploration Lead at <a href="https://starkware.co/">StarkWare</a><img src="https://media2.giphy.com/media/9x55tYxEVrI04pKHl1/giphy.gif" width="30">
 </em>
+<em>Ethereum Core Dev <img src="https://media3.giphy.com/media/WYWpz5qC5r0XVpRHRO/giphy.gif" width="30">
+</em>
 </p>
 
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/dimahledba?style=social)](https://twitter.com/dimahledba)
