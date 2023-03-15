@@ -7,6 +7,11 @@
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/dimahledba?style=social)](https://twitter.com/dimahledba)
 [![GitHub Thaiane](https://img.shields.io/github/followers/abdelhamidbakhta?label=follow&style=social)](https://github.com/abdelhamidbakhta)
 
+[](resources/eren_titan.gif)
+
+俺は進み続ける…敵を駆逐するまで。
+ore wa susumi tsuzukeru… teki o kuchiku suru made.
+
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/abdelhamidbakhta/abdelhamidbakhta">
