@@ -1,8 +1,10 @@
 **If you want to change the world, don't protest. Write code.**
 
-Builder. Cypherpunk. Freedom tech maximalist ([my Freedom Tech Manifesto](https://www.fgu.tech/manifesto). I write software that resists control by design, not by permission.
+Builder. Cypherpunk. Freedom tech maximalist ([my Freedom Tech Manifesto](https://www.fgu.tech/manifesto)). I write software that resists control by design, not by permission.
 
 15+ years shipping production systems across payments, banking, blockchain, and cryptography. I build things that matter in adversarial conditions, where the code has to be right because the consequences of being wrong are real.
+
+I wrote code in production manually for nearly 2 decades, now ready to embrace the new era and turning myself into an elite agentic wizard.
 
 Currently Head of Ecosystem at [StarkWare](https://starkware.co), building the open source community around [Starknet](https://starknet.io). Worked for years in Ethereum core development, Bitcoin infrastructure, and financial systems.
 
@@ -15,6 +17,8 @@ Now exploring the intersection of zero-knowledge proofs and machine intelligence
 Co-author and technical champion of [**EIP-1559**](https://eips.ethereum.org/EIPS/eip-1559), the fee market reform that fundamentally changed how Ethereum processes transactions.
 
 ### Starknet / ZK
+
+My goal is to show the world that Starknet has the technological foundations to become the ultimate post-quantum scalable private computer layer of the world. The backbone of the Integrity Web.
 
 Father of [**Kakarot**](https://github.com/kkrt-labs/kakarot) and [**Madara**](https://github.com/keep-starknet-strange/madara). Grew both from zero to thriving open source projects with active contributor communities.
 
