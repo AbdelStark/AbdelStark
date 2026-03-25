@@ -40,6 +40,9 @@ Building open source Rust implementations of frontier ML papers. Learning the ar
 | [**jepa-notebooks**](https://github.com/AbdelStark/jepa-notebooks) | Interactive notebooks exploring JEPA architectures |
 | [**attnres**](https://github.com/AbdelStark/attnres) | Attention Residuals (Kimi/MoonshotAI). Softmax attention over all preceding layer outputs. |
 | [**llm-provable-computer**](https://github.com/AbdelStark/llm-provable-computer) | Can LLMs be provable computers? Exploring verifiable AI inference. |
+| [**mosaicmem**](https://github.com/AbdelStark/mosaicmem) | Geometry-aware spatial memory enabling consistent camera-controlled video generation over long rollouts. |
+| [**turboquant**](https://github.com/AbdelStark/turboquant) | Rust implementation of Google's TurboQuant for research-grade vector quantization of LLM KV caches. |
+| [**gpc_rs**](https://github.com/AbdelStark/gpc_rs) | Generative robot policies via predictive world modeling — diffusion policy + world model + evaluator, in Rust. |
 
 ### Bitcoin / Freedom Tech
 
