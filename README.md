@@ -2,21 +2,22 @@
 
 I've been writing production software for 15+ years. Payments, banking, blockchain, cryptography. Mostly in situations where getting it wrong costs real money or breaks real trust.
 
-Head of Ecosystem at [StarkWare](https://starkware.co). Co-authored [EIP-1559](https://eips.ethereum.org/EIPS/eip-1559). Started [Kakarot](https://github.com/kkrt-labs/kakarot) and [Madara](https://github.com/keep-starknet-strange/madara) from nothing, both now run by independent teams. Lately I spend most of my time thinking about AI safety and what happens when autonomous systems need to prove they did what they said they did.
+Head of Ecosystem at [StarkWare](https://starkware.co). Co-authored [EIP-1559](https://eips.ethereum.org/EIPS/eip-1559). Started [Kakarot](https://github.com/kkrt-labs/kakarot) and [Madara](https://github.com/keep-starknet-strange/madara) from nothing, both now run by independent teams. Lately most of my time goes to one question: how do you verify what an autonomous system actually did?
 
 ---
 
 ### AI safety
 
-AI is about to be everywhere and in everything. I don't think we've thought nearly enough about how to verify what it's actually doing. That's what I work on now: cryptographic proofs and governance tooling to keep AI systems honest.
+Deployment is moving faster than the verification layer. That's the gap I work on: cryptographic proofs, governance tooling, and agent harness engineering for auditable autonomous systems.
 
 | Project | What it does |
 |---------|-------------|
-| [awesome-ai-safety](https://github.com/AbdelStark/awesome-ai-safety) | Curated list of tools and resources for AI safety. Alignment, interpretability, red teaming, formal verification, ZKML, governance. Focused on things you can actually use, not just papers. |
+| [claude-md-compiler](https://github.com/AbdelStark/claude-md-compiler) | Compiles CLAUDE.md into a versioned policy lockfile. Enforces it against diffs, hooks, and CI. No LLM in the runtime path. |
+| [awesome-ai-safety](https://github.com/AbdelStark/awesome-ai-safety) | Curated list of tools and resources for AI safety. Alignment, interpretability, red teaming, formal verification, ZKML, governance. Things you can actually use, not just papers. |
 | [eu-ai-act-toolkit](https://github.com/AbdelStark/eu-ai-act-toolkit) | Open source toolkit for EU AI Act compliance. SDK, CLI, and web app for classifying AI systems and generating compliance docs. |
 | [llm-provable-computer](https://github.com/AbdelStark/llm-provable-computer) | Can you prove an LLM produced a specific output without running it again? Exploring verifiable inference with STARKs. |
 
-I also write about this:
+Writing on this:
 
 | | |
 |---|---|
@@ -27,10 +28,11 @@ I also write about this:
 
 ### Machine learning
 
-I implement frontier ML papers in Rust. It's how I learn, if you can build it from scratch, you understand it.
+I implement frontier ML papers in Rust. If you can build it from scratch, you understand it.
 
-| Project | Paper / architecture |
-|---------|---------------------|
+| Project | What it does |
+|---------|-------------|
+| [latent-inspector](https://github.com/AbdelStark/latent-inspector) | Numbers, not vibes. Compare DINOv2, I-JEPA, V-JEPA 2, EUPE representation geometry on the same image — CKA, k-NN overlap, PCA projections, intrinsic dimensionality. In Rust, via ONNX. |
 | [jepa-rs](https://github.com/AbdelStark/jepa-rs) | First Rust implementation of JEPA primitives (I-JEPA, V-JEPA, C-JEPA, VICReg, EMA) |
 | [gpc_rs](https://github.com/AbdelStark/gpc_rs) | Generative robot policies. Diffusion policy + world model + evaluator, in Rust. |
 | [mosaicmem](https://github.com/AbdelStark/mosaicmem) | Geometry-aware spatial memory for camera-controlled video generation |
@@ -64,7 +66,7 @@ Built the open source ecosystem around Starknet. Started Kakarot and Madara, bot
 
 | Project | What it does |
 |---------|-------------|
-| [bitcoin-mcp](https://github.com/AbdelStark/bitcoin-mcp) | Bitcoin & Lightning Network MCP Server |
+| [bitcoin-mcp](https://github.com/AbdelStark/bitcoin-mcp) | Bitcoin & Lightning Network MCP server |
 | [nostringer-rs](https://github.com/AbdelStark/nostringer-rs) | Ring signatures (SAG, BLSAG) for Nostr, in Rust |
 | [nostr-mcp](https://github.com/AbdelStark/nostr-mcp) | Nostr MCP server |
 | [bitcoin-honeybadger](https://github.com/AbdelStark/bitcoin-honeybadger) | Bitcoin Honeybadger |
@@ -78,7 +80,7 @@ Built the open source ecosystem around Starknet. Started Kakarot and Madara, bot
 | [Before Fighting Banks, Let's Understand How They Actually Work](https://hackmd.io/@AbdelStark/BeforeFightingBanks) | A cypherpunk's guide to the financial system |
 | [Time to Take the Nostr Pill](https://hackmd.io/@AbdelStark/time-to-take-the-nostr-pill) | Why Nostr matters for freedom of speech |
 | [Nostr DVMs Meet Verifiable Computation](https://hackmd.io/@AbdelStark/nostr-dvm-verifiable-computation) | STARKs powering trustless Nostr services |
-| [Cashu Meets STARKs](https://hackmd.io/@AbdelStark/cashu-starks) | Zero-knowledge proofs for the Cashu ecash protocol |
+| [Cashu Meets STARKs](https://hackmd.io/@AbdelStark/cashu-starks) | Zero-knowledge proofs for the Cashu protocol |
 
 ---
 
