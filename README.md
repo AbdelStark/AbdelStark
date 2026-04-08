@@ -44,7 +44,8 @@ I implement frontier ML papers in Rust. If you can build it from scratch, you un
 
 ### Ethereum
 
-Co-authored [EIP-1559](https://eips.ethereum.org/EIPS/eip-1559), the fee market reform. Shipped to mainnet August 2021.
+Ethereum Core Dev for 4 years. Doing Protocol Engineering and been working on strategic Ethereum protocol upgrades.
+Technical Champion & Co-author of [EIP-1559](https://eips.ethereum.org/EIPS/eip-1559), the fee market reform. Shipped to mainnet August 2021.
 
 ---
 
@@ -55,8 +56,6 @@ Back in 2018, I co-founded [Hellhound](https://github.com/Consensys/hellhound) i
 I was solo on the engineering side. I designed and built the HHVM — a register-based bytecode virtual machine, written from scratch — the Paillier homomorphic encryption pipeline, the Kubernetes/GKE infrastructure, the Ethereum smart contracts for on-chain computation proofs, and the consensus logic for detecting malicious nodes. I was also first author of the [Red Paper](https://github.com/ConsenSys/hellhound/blob/master/hellhound-red-paper.pdf), the formal HHVM specification, and contributed to the vision and strategy alongside my co-founders. Shipped to a [live demo at DevCon4 Prague (2018)](https://youtu.be/mztQHrRXEXs).
 
 We also ran the first Crypto Escape Room at a DevCon. Every system component became a character in a lore universe so non-crypto attendees could learn applied cryptography by playing through it.
-
-Before ML got my attention, before EIP-1559, before Kakarot. The VM and runtime muscle starts here.
 
 ---
 
