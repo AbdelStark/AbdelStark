@@ -1,6 +1,6 @@
 **If you want to change the world, don't protest. Write code.**
 
-I've been writing production software for 15+ years. Payments, banking, blockchain, cryptography. Mostly in situations where getting it wrong costs real money or breaks real trust.
+I've been writing production software for 15+ years. Payments, banking, blockchain, cryptography. Industries where security is not an afterthought, mission critical software at scale. 
 
 Head of Ecosystem at [StarkWare](https://starkware.co). Co-authored [EIP-1559](https://eips.ethereum.org/EIPS/eip-1559). Started [Kakarot](https://github.com/kkrt-labs/kakarot) and [Madara](https://github.com/keep-starknet-strange/madara) from nothing, both now run by independent teams. Lately most of my time goes to one question: how do you verify what an autonomous system actually did?
 
@@ -88,11 +88,11 @@ If there's a thread, it's this: the gap between what individuals can verify and 
 
 Billions of autonomous agents are coming. Hospitals, roads, financial systems. The trust model we have assumes a small number of known actors. That assumption is about to break.
 
-Becoming a dad moved the frame. The question shifted from "what's interesting" to "what world will they grow up in." Clarifying and terrifying in equal measure.
+Becoming a dad changed my view of the world, my perspectives, my interests. The question shifted from "what's interesting" to "what world will they grow up in." Clarifying and terrifying in equal measure.
 
-There's a video of a Unitree humanoid robot running and playing with kids in New York. The kids don't hesitate — no learned suspicion, no fear of something different. They just play. Kids apply "no enemies" by default. Not because they're naive, but because they haven't been taught yet to draw the lines adults draw.
+There's a video of a Unitree humanoid robot running and playing with kids in New York. The kids don't hesitate, no learned suspicion, no fear of something different. They just play. Kids apply "no enemies" (Thors mantra, from Vinland Saga) by default. And it's not because they're naive, rather because they haven't been taught yet to draw the lines we draw as "adults".
 
-That's the world worth working toward. Not "no AI" — but AI that's honest, power that's distributed, trust that's verifiable. A world where kids don't have to unlearn anything to feel safe in it.
+That's the world worth working toward. Not "no AI", but AI where integrity can be made by design, power that's distributed, trust that's verifiable. A world where kids don't have to unlearn anything to feel safe in it.
 
 Math scales. Goodwill doesn't.
 
