@@ -88,6 +88,12 @@ If there's a thread, it's this: the gap between what individuals can verify and 
 
 Billions of autonomous agents are coming. Hospitals, roads, financial systems. The trust model we have assumes a small number of known actors. That assumption is about to break.
 
+Becoming a dad moved the frame. The question shifted from "what's interesting" to "what world will they grow up in." Clarifying and terrifying in equal measure.
+
+There's a video of a Unitree humanoid robot running and playing with kids in New York. The kids don't hesitate — no learned suspicion, no fear of something different. They just play. Kids apply "no enemies" by default. Not because they're naive, but because they haven't been taught yet to draw the lines adults draw.
+
+That's the world worth working toward. Not "no AI" — but AI that's honest, power that's distributed, trust that's verifiable. A world where kids don't have to unlearn anything to feel safe in it.
+
 Math scales. Goodwill doesn't.
 
 ---
