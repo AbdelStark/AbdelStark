@@ -1,10 +1,12 @@
 **If you want to change the world, don't protest. Write code.**
 
-I've been writing production software for 15+ years. Payments, banking, blockchain, cryptography. Industries where security is not an afterthought, mission critical software at scale. 
+I've been writing production software for 15+ years. Payments, banking, blockchain, cryptography. Industries where security is not an afterthought, mission critical software at scale.  Built and shipped production systems that are used on a daily basis by millions of users, handling sensitive data and high stakes.
 
 I care deeply about freedom tech, and I think it's the only way moving forward, especially as we advance more in the agentic era.
 
-Head of Ecosystem at [StarkWare](https://starkware.co). Co-authored [EIP-1559](https://eips.ethereum.org/EIPS/eip-1559). Started [Kakarot](https://github.com/kkrt-labs/kakarot) and [Madara](https://github.com/keep-starknet-strange/madara) from nothing, both now run by independent teams. Bootstrapped and spearheaded the development of dozens of open source community projects.
+Head of Ecosystem at [StarkWare](https://starkware.co). Former Ethereum Core Developer, Co-author & Technical Champion of [EIP-1559](https://eips.ethereum.org/EIPS/eip-1559). Started [Kakarot](https://github.com/kkrt-labs/kakarot) and [Madara](https://github.com/keep-starknet-strange/madara) from nothing, both now run by independent teams. Bootstrapped and spearheaded the development of dozens of open source community projects.
+Practically grew Starknet ecosystem to a vibrant ecosystem of developers over the past years.
+
 Lately most of my time goes to one question: how do you verify what an autonomous system actually did? Yes, I am passionate and obsessed by the topic of AI Safety, on multiple dimensions: technological, philosophical, societal, ethical. 
 
 ---
