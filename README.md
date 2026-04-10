@@ -47,6 +47,14 @@ I implement frontier ML papers in Rust. If you can build it from scratch, you un
 
 ---
 
+### AI Tooling / Apps / Products
+
+| Project | What it does |
+|---------|-------------|
+| [🇫🇷 parler](https://github.com/AbdelStark/parler) | Multilingual voice intelligence built on Mistral Voxtral model — decision logs from French/English meetings |
+
+---
+
 ### Ethereum
 
 Ethereum Core Dev for 4 years. Doing Protocol Engineering and been working on strategic Ethereum protocol upgrades.
