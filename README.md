@@ -28,7 +28,7 @@ Writing on this:
 |---|---|
 | [Math Is Humanity's Last Bastion Against Skynet](https://hackmd.io/@AbdelStark/math-humanity-last-bastion-skynet) | Why ZK proofs are the foundation for AI safety at scale |
 | [Can LLMs Be Provable Computers?](https://hackmd.io/@AbdelStark/llm-provable-computers) | Verifiable AI inference via STARKs |
-| [The Half-Life of Trust]([https://hackmd.io/@AbdelStark/llm-provable-computers](https://hackmd.io/@AbdelStark/the-half-life-of-trust) | Why verifiable AI needs post-quantum foundations, and why the answer is math / Retroactive forgery quantum attacks on TEEs |
+| [The Half-Life of Trust](https://hackmd.io/@AbdelStark/llm-provable-computers) | Why verifiable AI needs post-quantum foundations, and why the answer is math / Retroactive forgery quantum attacks on TEEs |
 
 ---
 
