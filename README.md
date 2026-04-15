@@ -4,7 +4,7 @@ I've been writing production software for 15+ years. Payments, banking, blockcha
 
 I care deeply about freedom tech, and I think it's the only way moving forward, especially as we advance more in the agentic era.
 
-Head of Ecosystem at [StarkWare](https://starkware.co). Former Ethereum Core Developer, Co-author & Technical Champion of [EIP-1559](https://eips.ethereum.org/EIPS/eip-1559). Started [Kakarot](https://github.com/kkrt-labs/kakarot) and [Madara](https://github.com/keep-starknet-strange/madara) from nothing, both now run by independent teams. Bootstrapped and spearheaded the development of dozens of open source community projects.
+Head of Freedom Tech at [StarkWare](https://starkware.co) (previously was Head of Ecosystem for 3 years). Former Ethereum Core Developer, Co-author & Technical Champion of [EIP-1559](https://eips.ethereum.org/EIPS/eip-1559). Started [Kakarot](https://github.com/kkrt-labs/kakarot) and [Madara](https://github.com/keep-starknet-strange/madara) from nothing, both now run by independent teams. Bootstrapped and spearheaded the development of dozens of open source community projects.
 Practically grew Starknet ecosystem to a vibrant ecosystem of developers over the past years.
 
 Lately most of my time goes to one question: how do you verify what an autonomous system actually did? Yes, I am passionate and obsessed by the topic of AI Safety, on multiple dimensions: technological, philosophical, societal, ethical. 
