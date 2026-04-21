@@ -24,7 +24,8 @@
 - Current focus: **AI safety infrastructure**, **world models**, **agent systems**, and **verifiable computation**.
 - Current role: **Head of Applied AI & Verifiable Intelligence at [StarkWare](https://starkware.co)**.
 - Previously: **Ethereum core developer**, co-author of **[EIP-1559](https://eips.ethereum.org/EIPS/eip-1559)**.
-- Started **[Kakarot](https://github.com/kkrt-labs/kakarot)** and **[Madara](https://github.com/keep-starknet-strange/madara)** from zero. Both now run with independent teams and communities.
+- Grew Starknet ecosystem to thousands of developers.
+- Started and spearheaded **[Kakarot](https://github.com/kkrt-labs/kakarot)** and **[Madara](https://github.com/keep-starknet-strange/madara)** from zero. Both now run with independent teams and communities.
 
 The question I keep coming back to is simple:
 
