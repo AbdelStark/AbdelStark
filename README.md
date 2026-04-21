@@ -5,16 +5,14 @@
 <p align="center">
   <a href="https://starkware.co"><img src="https://img.shields.io/badge/StarkWare-Current-4C6FFF?style=for-the-badge" alt="StarkWare"></a>
   <a href="https://eips.ethereum.org/EIPS/eip-1559"><img src="https://img.shields.io/badge/EIP--1559-Co--author-6C47FF?style=for-the-badge" alt="EIP-1559"></a>
-  <a href="https://github.com/kkrt-labs/kakarot"><img src="https://img.shields.io/badge/Kakarot-Originator-111111?style=for-the-badge" alt="Kakarot"></a>
-  <a href="https://github.com/keep-starknet-strange/madara"><img src="https://img.shields.io/badge/Madara-Originator-111111?style=for-the-badge" alt="Madara"></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
   <img src="https://img.shields.io/badge/AI%20Safety-111111?style=for-the-badge" alt="AI Safety">
   <img src="https://img.shields.io/badge/World%20Models-111111?style=for-the-badge" alt="World Models">
   <img src="https://img.shields.io/badge/STARKs-111111?style=for-the-badge" alt="STARKs">
   <img src="https://img.shields.io/badge/Verifiable%20AI-111111?style=for-the-badge" alt="Verifiable AI">
+  <img src="https://img.shields.io/badge/ML%20Engineering?style=for-the-badge" alt="ML Engineering">
   <img src="https://img.shields.io/badge/Open%20Source-111111?style=for-the-badge" alt="Open Source">
 </p>
 
@@ -131,6 +129,6 @@ Goodwill doesn't.
 
 <p align="center">
   <a href="https://x.com/AbdelStark"><img src="https://img.shields.io/badge/X-@AbdelStark-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
-  <a href="https://primal.net/abdel"><img src="https://img.shields.io/badge/Nostr-abdel-6D4AFF?style=for-the-badge" alt="Nostr"></a>
+  <a href="https://www.linkedin.com/in/0xabdelstark/"><img src="https://img.shields.io/badge/Linkedin-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="Nostr"></a>
   <a href="https://hackmd.io/@AbdelStark"><img src="https://img.shields.io/badge/Writing-HackMD-111111?style=for-the-badge" alt="Writing"></a>
 </p>
