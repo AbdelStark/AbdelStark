@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/World%20Models-111111?style=for-the-badge" alt="World Models">
   <img src="https://img.shields.io/badge/STARKs-111111?style=for-the-badge" alt="STARKs">
   <img src="https://img.shields.io/badge/Verifiable%20AI-111111?style=for-the-badge" alt="Verifiable AI">
-  <img src="https://img.shields.io/badge/ML%20Engineering?style=for-the-badge" alt="ML Engineering">
+  <img src="https://img.shields.io/badge/ML%20Engineering-111111?style=for-the-badge" alt="ML Engineering">
   <img src="https://img.shields.io/badge/Open%20Source-111111?style=for-the-badge" alt="Open Source">
 </p>
 
