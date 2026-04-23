@@ -2,6 +2,14 @@
 <p align="center"><strong>Head of Applied AI & Verifiable Intelligence</strong></p>
 <p align="center">Building at the intersection of world models, AI safety, and verifiable computation.</p>
 
+
+<p align="center">
+  <a href="https://x.com/AbdelStark"><img src="https://img.shields.io/badge/@AbdelStark-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://huggingface.co/abdelstark"><img src="https://img.shields.io/badge/🤗-Hugging%20Face-000000?style=for-the-badge" alt="HF"></a>
+  <a href="https://www.linkedin.com/in/0xabdelstark/"><img src="https://img.shields.io/badge/Linkedin-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="Nostr"></a>
+  <a href="https://hackmd.io/@AbdelStark"><img src="https://img.shields.io/badge/Writing-HackMD-111111?style=for-the-badge" alt="Writing"></a>
+</p>
+
 <p align="center">
   <a href="https://starkware.co"><img src="https://img.shields.io/badge/StarkWare-Current-4C6FFF?style=for-the-badge" alt="StarkWare"></a>
   <a href="https://eips.ethereum.org/EIPS/eip-1559"><img src="https://img.shields.io/badge/EIP--1559-Co--author-6C47FF?style=for-the-badge" alt="EIP-1559"></a>
@@ -128,8 +136,3 @@ Goodwill doesn't.
 
 ---
 
-<p align="center">
-  <a href="https://x.com/AbdelStark"><img src="https://img.shields.io/badge/X-@AbdelStark-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
-  <a href="https://www.linkedin.com/in/0xabdelstark/"><img src="https://img.shields.io/badge/Linkedin-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="Nostr"></a>
-  <a href="https://hackmd.io/@AbdelStark"><img src="https://img.shields.io/badge/Writing-HackMD-111111?style=for-the-badge" alt="Writing"></a>
-</p>
