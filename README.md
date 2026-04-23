@@ -136,3 +136,9 @@ Goodwill doesn't.
 
 ---
 
+<p align="center">
+  <a href="https://x.com/AbdelStark"><img src="https://img.shields.io/badge/@AbdelStark-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://huggingface.co/abdelstark"><img src="https://img.shields.io/badge/🤗-Hugging%20Face-000000?style=for-the-badge" alt="HF"></a>
+  <a href="https://www.linkedin.com/in/0xabdelstark/"><img src="https://img.shields.io/badge/Linkedin-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="Nostr"></a>
+  <a href="https://hackmd.io/@AbdelStark"><img src="https://img.shields.io/badge/Writing-HackMD-111111?style=for-the-badge" alt="Writing"></a>
+</p>
