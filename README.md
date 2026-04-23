@@ -99,6 +99,7 @@ I implement frontier ML papers in Rust. If you can build it from scratch, you un
 
 | Title | What it is |
 |---|---|
+| [World Models, From Zero to Hero](https://hackmd.io/@AbdelStark/world-model-from-zero-to-hero) | A field guide to one of the most overloaded terms in AI. |
 | [The Half-Life of Trust](https://hackmd.io/@AbdelStark/the-half-life-of-trust) | Why verifiable AI needs post-quantum foundations. |
 | [Math Is Humanity's Last Bastion Against Skynet](https://hackmd.io/@AbdelStark/math-humanity-last-bastion-skynet) | Why ZK proofs are the foundation for AI safety at scale. |
 | [Can LLMs Be Provable Computers?](https://hackmd.io/@AbdelStark/llm-provable-computers) | Verifiable AI inference via STARKs. |
