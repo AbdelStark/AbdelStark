@@ -28,14 +28,14 @@
 
 ## What I do
 
-- 15+ years shipping production software in payments, banking, cryptography, blockchain, and now AI.
 - Current focus: **AI safety infrastructure**, **world models**, **agent systems**, and **verifiable computation**.
 - Current role: **Head of Applied AI & Verifiable Intelligence at [StarkWare](https://starkware.co)**.
-- Previously: **Ethereum core developer**, co-author of **[EIP-1559](https://eips.ethereum.org/EIPS/eip-1559)**.
+- Previously: **Ethereum core developer**, co-author & technical champion of **[EIP-1559: Fee market change for ETH 1.0 chain](https://eips.ethereum.org/EIPS/eip-1559)**.
+- 15+ years shipping production software in payments, banking, cryptography, blockchain, and now AI.
 - Grew Starknet ecosystem to thousands of developers.
-- Started and spearheaded **[Kakarot](https://github.com/kkrt-labs/kakarot)** and **[Madara](https://github.com/keep-starknet-strange/madara)** from zero. Both now run with independent teams and communities.
+- Started and spearheaded **[Kakarot](https://github.com/kkrt-labs/kakarot)** and **[Madara](https://github.com/keep-starknet-strange/madara)** from zero. Both now run with independent teams and communities. Bootstrapped and managed more than 15 open source community projects over the past 3 years.
 
-The question I keep coming back to is simple:
+The question that occupies my mind lately:
 
 > **How do you verify what an autonomous system actually did?**
 
@@ -43,20 +43,25 @@ The question I keep coming back to is simple:
 
 ## Selected work
 
+### Research / Papers
+
+---|---|
+| [The Half-Life of Trust]([https://github.com/AbdelStark/claude-md-compiler](https://zenodo.org/records/19682195)) | Hardware-Rooted and Mathematics-Rooted
+Foundations for Verifiable AI. |
+| Toward High-Assurance AI (publishing soon) | Safety by Design for Autonomous Systems. |
+
 ### AI safety
 
-Deployment is moving faster than the verification layer. That is the gap I work on.
+Deployment is moving faster than the verification layer. That is a gap I want to work on.
 
 | Project | What it is |
 |---|---|
-| [claude-md-compiler](https://github.com/AbdelStark/claude-md-compiler) | Compiles `CLAUDE.md` into a versioned policy lockfile and enforces it against diffs, hooks, and CI. |
+| [llm-provable-computer](https://github.com/AbdelStark/llm-provable-computer) | Exploring verifiable inference with STARKs. |
 | [awesome-ai-safety](https://github.com/AbdelStark/awesome-ai-safety) | Curated map of AI safety tools and resources: alignment, interpretability, red teaming, formal verification, zkML, governance. |
 | [eu-ai-act-toolkit](https://github.com/AbdelStark/eu-ai-act-toolkit) | Open-source toolkit for EU AI Act compliance. |
-| [llm-provable-computer](https://github.com/AbdelStark/llm-provable-computer) | Exploring verifiable inference with STARKs. |
+| [claude-md-compiler](https://github.com/AbdelStark/claude-md-compiler) | Compiles `CLAUDE.md` into a versioned policy lockfile and enforces it against diffs, hooks, and CI. |
 
 ### Machine learning / world models
-
-I implement frontier ML papers in Rust. If you can build it from scratch, you understand it.
 
 | Project | What it is |
 |---|---|
