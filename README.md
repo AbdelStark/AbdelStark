@@ -70,6 +70,7 @@ Deployment is moving faster than the verification layer. That is a gap I want to
 | [attnres](https://github.com/AbdelStark/attnres) | Attention residual stream experiments inspired by Kimi / MoonshotAI. |
 | [turboquant](https://github.com/AbdelStark/turboquant) | Rust implementation of Google's TurboQuant for KV-cache quantization. |
 | [jepa-notebooks](https://github.com/AbdelStark/jepa-notebooks) | Interactive notebooks for JEPA architectures. |
+| [nostrain](https://github.com/AbdelStark/nostrain) | Coordinator-free distributed ML training over Nostr relays using DiLoCo. |
 
 ### AI tooling / apps
 
@@ -91,6 +92,7 @@ Deployment is moving faster than the verification layer. That is a gap I want to
 
 | Project | What it is |
 |---|---|
+| [collidervm](https://github.com/AbdelStark/collidervm) | ColliderVM: Stateful Computation on Bitcoin without Fraud Proofs. |
 | [bitcoin-mcp](https://github.com/AbdelStark/bitcoin-mcp) | Bitcoin and Lightning MCP server. |
 | [nostringer-rs](https://github.com/AbdelStark/nostringer-rs) | Ring signatures for Nostr, in Rust. |
 | [nostr-mcp](https://github.com/AbdelStark/nostr-mcp) | Nostr MCP server. |
