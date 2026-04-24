@@ -45,6 +45,7 @@ The question that occupies my mind lately:
 
 ### Research / Papers
 
+| Project | What it is |
 ---|---|
 | [The Half-Life of Trust]([https://github.com/AbdelStark/claude-md-compiler](https://zenodo.org/records/19682195)) | Hardware-Rooted and Mathematics-Rooted
 Foundations for Verifiable AI. |
