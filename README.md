@@ -45,10 +45,8 @@ The question that occupies my mind lately:
 
 ### Research / Papers
 
-| Project | What it is |
----|---|
-| [The Half-Life of Trust](https://zenodo.org/records/19682195) | Hardware-Rooted and Mathematics-Rooted Foundations for Verifiable AI. |
-| Toward High-Assurance AI (publishing soon) | Safety by Design for Autonomous Systems. |
+- [The Half-Life of Trust Hardware-Rooted and Mathematics-Rooted Foundations for Verifiable AI.](https://zenodo.org/records/19682195)
+- Toward High-Assurance AI Safety by Design for Autonomous Systems. (publishing soon)
 
 ### AI safety
 
