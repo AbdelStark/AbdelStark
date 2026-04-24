@@ -47,8 +47,7 @@ The question that occupies my mind lately:
 
 | Project | What it is |
 ---|---|
-| [The Half-Life of Trust]([https://github.com/AbdelStark/claude-md-compiler](https://zenodo.org/records/19682195)) | Hardware-Rooted and Mathematics-Rooted
-Foundations for Verifiable AI. |
+| [The Half-Life of Trust](https://zenodo.org/records/19682195) | Hardware-Rooted and Mathematics-Rooted Foundations for Verifiable AI. |
 | Toward High-Assurance AI (publishing soon) | Safety by Design for Autonomous Systems. |
 
 ### AI safety
