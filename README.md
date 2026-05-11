@@ -64,6 +64,7 @@ Deployment is moving faster than the verification layer. That is a gap I want to
 | Project | What it is |
 |---|---|
 | [worldforge](https://github.com/AbdelStark/worldforge) | Testable world-model workflows for physical-AI systems: providers, planning, evaluation, benchmarking, and diagnostics. |
+| [asimov-sim-lab](https://github.com/AbdelStark/asimov-sim-lab) | Schema-backed inspection, validation, and deterministic evidence packaging for the Asimov v1 MuJoCo humanoid model. |
 | [latent-inspector](https://github.com/AbdelStark/latent-inspector) | Compare DINOv2, I-JEPA, V-JEPA 2, and EUPE representation geometry on the same image. Rust + ONNX. |
 | [latent-inspector-py](https://github.com/AbdelStark/latent-inspector-py) | Patch-token geometry benchmarks for released vision encoders including DINOv2, I-JEPA, V-JEPA 2, and EUPE. |
 | [jepa-rs](https://github.com/AbdelStark/jepa-rs) | Rust implementation of JEPA primitives: I-JEPA, V-JEPA, C-JEPA, VICReg, EMA. |
