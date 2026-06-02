@@ -45,8 +45,8 @@ The question that occupies my mind lately:
 
 ### Research / Papers
 
+- [Toward High-Assurance AI Safety by Design for Autonomous Systems.](https://zenodo.org/records/20512718)
 - [The Half-Life of Trust Hardware-Rooted and Mathematics-Rooted Foundations for Verifiable AI.](https://zenodo.org/records/19682195)
-- Toward High-Assurance AI Safety by Design for Autonomous Systems. (publishing soon)
 
 ### AI safety
 
