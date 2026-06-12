@@ -51,6 +51,7 @@ Peer-reproducible reports and preprints. Full record on **[ORCID](https://orcid.
 | Project | What it is |
 |---|---|
 | [worldforge](https://github.com/AbdelStark/worldforge) | Testable world-model workflows for physical-AI systems: providers, planning, evaluation, benchmarking, and diagnostics. |
+| [ProvableWorldModel](https://github.com/AbdelStark/ProvableWorldModel) | A commit-and-audit proof system for deterministic, quantized inference of a JEPA-style world model (LeWorldModel). |
 | [Lensemble](https://github.com/AbdelStark/Lensemble) | Federated, end-to-end JEPA world models trained across mutually-distrusting data silos — with a roadmap to STARK-based proof of each participant's contribution. |
 | [GenoLeWM](https://github.com/AbdelStark/GenoLeWM) | Action-conditioned JEPA world model for genomic edits: treat a DNA edit as an *action* over a frozen DNA encoder and predict the latent outcome. |
 | [CodeLeWM](https://github.com/AbdelStark/CodeLeWM) | Latent transition models over code edits — a scorer/reranker for candidate patches, not a generator. Published as infrastructure plus an honest negative result. |
