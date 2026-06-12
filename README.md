@@ -114,6 +114,7 @@ Deployment is moving faster than the verification layer. That gap is the work.
 
 | Title | What it is |
 |---|---|
+| [Provable World Model](https://hackmd.io/@AbdelStark/provable-world-model) | World models, the integrity gap, and the fork in the road. |
 | [World Models, From Zero to Hero](https://hackmd.io/@AbdelStark/world-model-from-zero-to-hero) | A field guide to one of the most overloaded terms in AI. |
 | [The Half-Life of Trust](https://hackmd.io/@AbdelStark/the-half-life-of-trust) | Why verifiable AI needs post-quantum foundations. |
 | [Math Is Humanity's Last Bastion Against Skynet](https://hackmd.io/@AbdelStark/math-humanity-last-bastion-skynet) | Why ZK proofs are the foundation for AI safety at scale. |
